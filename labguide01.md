@@ -19,5 +19,5 @@ In this module, students will learn how to ingest and process streaming data at 
 
    1.  Enter the following **Password** and click on **Sign in**. 
    
-   * Password: <inject key="AttendeeUniqueName"></inject>
+   * uniquename: <inject key="AttendeeUniqueName"></inject>
 
